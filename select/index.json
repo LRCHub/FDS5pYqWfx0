@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "遺言",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-04-01T13:38:14.892605Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遺言",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_遺言_HIMEHINA.txt"
+    }
+  ]
+}
